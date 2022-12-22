@@ -27,15 +27,15 @@ https://vgabrielamelo.github.io/ProjetoCurriculo-EBAC
 
 # Tags novas 
 - HTML
-    - <span> 
+    - <span>: faz o mesmo que o <p>
 
 - CSS
-    - box-sizing: border-box
-    - gap 
-    - letter-spacing
+    - box-sizing: define como a largura e a altura totais de um elemento são calculadas.
+    - gap: A propriedade gap define o tamanho do intervalo entre as linhas e colunas.
+    - letter-spacing: define o espaçamento horizontal entre os caracteres de texto.
 
 - Javascript
     - Usar <id> nos elementos que vão ser chamados no JS.
-    - <hidden> (como classe no HTML)
-    - toFixed()
-    - preventDefault()
+    - <hidden> (como classe no HTML): para deixar uma div invisivel 
+    - toFixed(): Converte um número  com o número indicado de casas decimais e então retorna seu valor como uma string.
+    - preventDefault(): Se o evento não for tratado explicitamente, sua ação padrão não deve ser executada como normalmente seria.
